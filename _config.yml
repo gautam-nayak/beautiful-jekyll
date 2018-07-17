@@ -17,7 +17,7 @@ baseurl: "/web"
 title: Gautam Nayak
 
 # Short description of your site
-description: Data Engineer, Video Games
+description: Spark Developer
 
 # --- Navigation bar options --- #
 
@@ -64,7 +64,7 @@ page-img: "/img/bgimage.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: @gforz
+  name: gforz
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
