@@ -23,7 +23,7 @@ description: Data Engineer, Video Games
 
 # List of links in the navigation bar
 navbar-links:
-  Projects: "aboutme"
+  resources: "aboutme"
   About Me: "aboutme"
      -
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
